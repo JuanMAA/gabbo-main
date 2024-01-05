@@ -1,12 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue';
-import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel';
-import { ref, onMounted } from 'vue';
-import 'vue3-carousel/dist/carousel.css';
-import animationGabbo from './gabbo.js';
+import { onMounted } from 'vue';
+import animationGabbo from './gabbo';
 
 onMounted(() => {
-  animationGabbo();
+  animationGabbo
 });
 </script>
 
