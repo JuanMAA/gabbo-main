@@ -6,7 +6,7 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
 
-  background: linear-gradient(227deg, #060af0, #ce1010);
+  background: linear-gradient(227deg, #f88810, rgb(39, 160, 30));
   background-size: 400% 400%;
   -webkit-animation: AnimationName 30s ease infinite;
   -moz-animation: AnimationName 30s ease infinite;

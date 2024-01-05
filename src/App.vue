@@ -1977,7 +1977,7 @@ onMounted(() => {
           font-size="302"
           font-weight="400"
           transform="translate(238.687 248.681)"
-          fill="#040622"
+          fill="2d2153"
         >
           <tspan
             font-family='"MontBlanc-Trial-Bold"'
